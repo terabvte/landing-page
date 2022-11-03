@@ -8,6 +8,7 @@ I tried to create an accurate replica of this page purely as a self-imposed chal
 - Strategies to mimic a template to an actual page as close as possible 
 - Some semantic HTML
 ## What I could improve on
+- **Make the page responsive (important)**
 - Make the code cleaner, including stuff like:
   * Improving my CSS selection abilities
   * Find more efficient ways to apply CSS styles (I noticed in my code there's a lot of unneeded repetition)
